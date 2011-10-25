@@ -1,0 +1,10 @@
+#Sat Oct 22 22:26:12 PDT 2011
+eclipse.preferences.version=1
+provisioning_profiles/development/0DEE163E-895E-4524-BB08-55277522BBD1/appid=*
+provisioning_profiles/development/0DEE163E-895E-4524-BB08-55277522BBD1/filepath=/Users/Beamer/Library/MobileDevice/Provisioning Profiles/0DEE163E-895E-4524-BB08-55277522BBD1.mobileprovision
+provisioning_profiles/development/0DEE163E-895E-4524-BB08-55277522BBD1/name=iOS Team Provisioning Profile\: *
+provisioning_profiles/development/0DEE163E-895E-4524-BB08-55277522BBD1/uuid=0DEE163E-895E-4524-BB08-55277522BBD1
+provisioning_profiles/distribution/10CAB635-FD27-46B1-BE78-5FAFF1C8D86B/appid=com.trnsfr.*
+provisioning_profiles/distribution/10CAB635-FD27-46B1-BE78-5FAFF1C8D86B/filepath=/Users/Beamer/Library/MobileDevice/Provisioning Profiles/10CAB635-FD27-46B1-BE78-5FAFF1C8D86B.mobileprovision
+provisioning_profiles/distribution/10CAB635-FD27-46B1-BE78-5FAFF1C8D86B/name=TRNSFR
+provisioning_profiles/distribution/10CAB635-FD27-46B1-BE78-5FAFF1C8D86B/uuid=10CAB635-FD27-46B1-BE78-5FAFF1C8D86B
